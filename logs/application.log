@@ -1,0 +1,273 @@
+2026-03-26 21:10:37 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 21:10:37 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 21:10:38 [main] INFO  log - Launching Chrome browser
+2026-03-26 21:10:40 [main] INFO  log - Maximizing browser window
+2026-03-26 21:10:40 [main] INFO  log - Navigating to application URL
+2026-03-26 21:11:19 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 21:11:19 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 21:11:20 [main] INFO  log - Launching Chrome browser
+2026-03-26 21:11:22 [main] INFO  log - Maximizing browser window
+2026-03-26 21:11:22 [main] INFO  log - Navigating to application URL
+2026-03-26 22:23:06 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:23:06 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:23:07 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:23:09 [main] INFO  log - Maximizing browser window
+2026-03-26 22:23:10 [main] INFO  log - Navigating to application URL
+2026-03-26 22:23:16 [main] INFO  log - Starting Case Insensitive Search Test
+2026-03-26 22:23:17 [main] INFO  log - Result count for 'Harry Potter': 0
+2026-03-26 22:23:26 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:23:26 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:23:26 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:23:27 [main] INFO  log - Maximizing browser window
+2026-03-26 22:23:27 [main] INFO  log - Navigating to application URL
+2026-03-26 22:23:31 [main] INFO  log - Starting Product Click Navigation Test
+2026-03-26 22:23:33 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:23:33 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:23:33 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:23:34 [main] INFO  log - Maximizing browser window
+2026-03-26 22:23:34 [main] INFO  log - Navigating to application URL
+2026-03-26 22:23:41 [main] INFO  log - Starting Empty Search Test
+2026-03-26 22:23:42 [main] INFO  log - Empty Search Test Passed
+2026-03-26 22:23:42 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:23:42 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:23:42 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:23:43 [main] INFO  log - Maximizing browser window
+2026-03-26 22:23:44 [main] INFO  log - Navigating to application URL
+2026-03-26 22:23:49 [main] INFO  log - Verifying Home Page Title
+2026-03-26 22:23:49 [main] INFO  log - Home Page Title verified successfully
+2026-03-26 22:23:50 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:23:50 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:23:50 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:23:51 [main] INFO  log - Maximizing browser window
+2026-03-26 22:23:51 [main] INFO  log - Navigating to application URL
+2026-03-26 22:23:58 [main] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-26 22:24:01 [main] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-26 22:24:02 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:24:02 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:24:02 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:24:03 [main] INFO  log - Maximizing browser window
+2026-03-26 22:24:03 [main] INFO  log - Navigating to application URL
+2026-03-26 22:24:09 [main] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-26 22:24:12 [main] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-26 22:24:13 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:24:13 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:24:13 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:24:14 [main] INFO  log - Maximizing browser window
+2026-03-26 22:24:14 [main] INFO  log - Navigating to application URL
+2026-03-26 22:24:14 [main] INFO  log - Starting Search Relevance Test
+2026-03-26 22:24:21 [main] INFO  log - Search Relevance Test Passed
+2026-03-26 22:24:22 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:24:22 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:24:22 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:24:23 [main] INFO  log - Maximizing browser window
+2026-03-26 22:24:23 [main] INFO  log - Navigating to application URL
+2026-03-26 22:24:29 [main] INFO  log - Starting Search With ENTER Key Test
+2026-03-26 22:24:32 [main] INFO  log - Search With ENTER Test Passed
+2026-03-26 22:24:32 [main] INFO  log - ========== Test Execution Started ==========
+2026-03-26 22:24:32 [main] INFO  log - Setting up ChromeDriver using WebDriverManager
+2026-03-26 22:24:32 [main] INFO  log - Launching Chrome browser
+2026-03-26 22:24:33 [main] INFO  log - Maximizing browser window
+2026-03-26 22:24:33 [main] INFO  log - Navigating to application URL
+2026-03-26 22:24:42 [main] INFO  log - Starting Valid Search Test
+2026-03-26 22:24:44 [main] INFO  log - Valid Search Test Passed
+2026-03-27 01:46:24 [main] INFO  log - Starting Case Insensitive Search Test
+2026-03-27 01:46:29 [main] INFO  log - Result count for 'Harry Potter': 0
+2026-03-27 01:46:36 [main] INFO  log - Starting Product Click Navigation Test
+2026-03-27 01:46:49 [main] INFO  log - Starting Empty Search Test
+2026-03-27 01:46:52 [main] INFO  log - Empty Search Test Passed
+2026-03-27 01:46:57 [main] INFO  log - Verifying Home Page Title
+2026-03-27 01:46:57 [main] INFO  log - Home Page Title verified successfully
+2026-03-27 01:47:04 [main] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-27 01:47:08 [main] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-27 01:47:13 [main] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-27 01:47:14 [main] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-27 01:47:16 [main] INFO  log - Starting Search Relevance Test
+2026-03-27 01:47:23 [main] INFO  log - Search Relevance Test Passed
+2026-03-27 01:47:29 [main] INFO  log - Starting Search With ENTER Key Test
+2026-03-27 01:47:31 [main] INFO  log - Search With ENTER Test Passed
+2026-03-27 01:47:38 [main] INFO  log - Starting Valid Search Test
+2026-03-27 01:47:40 [main] INFO  log - Valid Search Test Passed
+2026-03-27 01:53:20 [main] INFO  log - Starting Case Insensitive Search Test
+2026-03-27 01:53:26 [main] INFO  log - Result count for 'Harry Potter': 12
+2026-03-27 01:53:36 [main] INFO  log - Starting Product Click Navigation Test
+2026-03-27 01:53:40 [main] INFO  log - Starting Empty Search Test
+2026-03-27 01:53:47 [main] INFO  log - Empty Search Test Passed
+2026-03-27 01:53:52 [main] INFO  log - Verifying Home Page Title
+2026-03-27 01:53:52 [main] INFO  log - Home Page Title verified successfully
+2026-03-27 01:53:54 [main] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-27 01:53:59 [main] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-27 01:54:07 [main] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-27 01:54:08 [main] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-27 01:54:16 [main] INFO  log - Starting Search Relevance Test
+2026-03-27 01:54:18 [main] INFO  log - Search Relevance Test Passed
+2026-03-27 01:54:20 [main] INFO  log - Starting Search With ENTER Key Test
+2026-03-27 01:54:25 [main] INFO  log - Search With ENTER Test Passed
+2026-03-27 01:54:31 [main] INFO  log - Starting Valid Search Test
+2026-03-27 01:54:33 [main] INFO  log - Valid Search Test Passed
+2026-03-27 02:04:59 [main] INFO  log - Starting Case Insensitive Search Test
+2026-03-27 02:05:01 [main] INFO  log - Result count for 'Harry Potter': 12
+2026-03-27 02:05:09 [main] INFO  log - Starting Product Click Navigation Test
+2026-03-27 02:05:17 [main] INFO  log - Starting Empty Search Test
+2026-03-27 02:05:18 [main] INFO  log - Empty Search Test Passed
+2026-03-27 02:05:24 [main] INFO  log - Verifying Home Page Title
+2026-03-27 02:05:24 [main] INFO  log - Home Page Title verified successfully
+2026-03-27 02:05:33 [main] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-27 02:05:34 [main] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-27 02:05:41 [main] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-27 02:05:43 [main] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-27 02:05:50 [main] INFO  log - Starting Search Relevance Test
+2026-03-27 02:05:52 [main] INFO  log - Search Relevance Test Passed
+2026-03-27 02:05:59 [main] INFO  log - Starting Search With ENTER Key Test
+2026-03-27 02:06:02 [main] INFO  log - Search With ENTER Test Passed
+2026-03-27 02:06:10 [main] INFO  log - Starting Valid Search Test
+2026-03-27 02:06:14 [main] INFO  log - Valid Search Test Passed
+2026-03-27 14:00:29 [main] INFO  log - Starting Case Insensitive Search Test
+2026-03-27 14:00:34 [main] INFO  log - Result count for 'Harry Potter': 0
+2026-03-27 14:00:50 [main] INFO  log - Starting Product Click Navigation Test
+2026-03-27 14:01:03 [main] INFO  log - Starting Product Click Navigation Test
+2026-03-27 14:01:09 [main] INFO  log - Starting Empty Search Test
+2026-03-27 14:01:15 [main] INFO  log - Empty Search Test Passed
+2026-03-27 14:01:19 [main] INFO  log - Verifying Home Page Title
+2026-03-27 14:01:25 [main] INFO  log - Home Page Title verified successfully
+2026-03-27 14:01:31 [main] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-27 14:01:36 [main] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-27 14:01:42 [main] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-27 14:01:46 [main] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-27 14:01:57 [main] INFO  log - Starting Search Relevance Test
+2026-03-27 14:02:00 [main] INFO  log - Search Relevance Test Passed
+2026-03-27 14:02:09 [main] INFO  log - Starting Search With ENTER Key Test
+2026-03-27 14:02:12 [main] INFO  log - Search With ENTER Test Passed
+2026-03-27 14:02:20 [main] INFO  log - Starting Valid Search Test
+2026-03-27 14:02:22 [main] INFO  log - Valid Search Test Passed
+2026-03-27 14:02:26 [main] INFO  log - Starting test: verifyClickLastProduct
+2026-03-27 14:02:35 [main] INFO  log - verifyClickLastProduct completed successfully
+2026-03-27 14:03:14 [main] INFO  log - Starting test: verifyProductPageAfterRefresh
+2026-03-27 14:03:28 [main] INFO  log - Starting test: verifyProductPageAfterRefresh
+2026-03-27 14:03:41 [main] INFO  log - Starting test: verifyUrlChangesForEachProduct
+2026-03-27 14:03:46 [main] INFO  log - URL validation test completed
+2026-03-27 14:03:49 [main] INFO  log - URL validation test completed
+2026-03-27 14:03:52 [main] INFO  log - URL validation test completed
+2026-03-27 14:04:01 [main] INFO  log - Starting test: verifyViewBookDetails
+2026-03-27 14:04:01 [main] INFO  log - Searching for: Harry Potter
+2026-03-27 14:04:13 [main] INFO  log - Starting test: verifyViewBookDetails
+2026-03-27 14:04:13 [main] INFO  log - Searching for: Harry Potter
+2026-03-27 14:04:20 [main] INFO  log - Starting test: verifyAddToCartSingleProduct
+2026-03-27 14:04:20 [main] INFO  log - Searching for book: Harry Potter
+2026-03-27 14:05:38 [main] INFO  log - Starting test: verifyQuantityIncrement
+2026-03-27 14:05:54 [main] INFO  log - Clicked + button
+2026-03-27 14:16:15 [main] INFO  log - Verifying Home Page Title
+2026-03-27 14:16:15 [main] INFO  log - Home Page Title verified successfully
+2026-03-27 14:24:36 [main] INFO  log - Starting test: verifyAddToCartSingleProduct
+2026-03-27 14:24:37 [main] INFO  log - Searching for book: Harry Potter
+2026-03-27 15:26:43 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyClickLastProduct
+2026-03-27 15:26:43 [TestNG-test-All Tests-1] INFO  log - Starting Case Insensitive Search Test
+2026-03-27 15:26:45 [TestNG-test-All Tests-3] INFO  log - Starting test: verifyAddToCartSingleProduct
+2026-03-27 15:26:45 [TestNG-test-All Tests-3] INFO  log - Searching for book: Harry Potter
+2026-03-27 15:26:49 [TestNG-test-All Tests-1] INFO  log - Result count for 'Harry Potter': 0
+2026-03-27 15:26:59 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyClickLastProduct
+2026-03-27 15:27:01 [TestNG-test-All Tests-3] INFO  log - Starting test: verifyAddToCartSingleProduct
+2026-03-27 15:27:01 [TestNG-test-All Tests-3] INFO  log - Searching for book: Harry Potter
+2026-03-27 15:27:07 [TestNG-test-All Tests-2] INFO  log - verifyClickLastProduct completed successfully
+2026-03-27 15:27:11 [TestNG-test-All Tests-1] INFO  log - Starting Product Click Navigation Test
+2026-03-27 15:27:26 [TestNG-test-All Tests-1] INFO  log - Starting Product Click Navigation Test
+2026-03-27 15:27:49 [TestNG-test-All Tests-1] INFO  log - Starting Empty Search Test
+2026-03-27 15:27:53 [TestNG-test-All Tests-1] INFO  log - Empty Search Test Passed
+2026-03-27 15:28:06 [TestNG-test-All Tests-1] INFO  log - Verifying Home Page Title
+2026-03-27 15:28:06 [TestNG-test-All Tests-1] INFO  log - Home Page Title verified successfully
+2026-03-27 15:28:07 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyProductPageAfterRefresh
+2026-03-27 15:28:18 [TestNG-test-All Tests-1] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-27 15:28:19 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyProductPageAfterRefresh
+2026-03-27 15:28:20 [TestNG-test-All Tests-1] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-27 15:28:33 [TestNG-test-All Tests-1] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-27 15:28:36 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyUrlChangesForEachProduct
+2026-03-27 15:28:39 [TestNG-test-All Tests-1] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-27 15:28:43 [TestNG-test-All Tests-2] INFO  log - URL validation test completed
+2026-03-27 15:28:51 [TestNG-test-All Tests-2] INFO  log - URL validation test completed
+2026-03-27 15:28:59 [TestNG-test-All Tests-1] INFO  log - Starting Search Relevance Test
+2026-03-27 15:28:59 [TestNG-test-All Tests-2] INFO  log - URL validation test completed
+2026-03-27 15:29:03 [TestNG-test-All Tests-3] INFO  log - Starting test: verifyQuantityIncrement
+2026-03-27 15:29:06 [TestNG-test-All Tests-1] INFO  log - Search Relevance Test Passed
+2026-03-27 15:29:15 [TestNG-test-All Tests-3] INFO  log - Clicked + button
+2026-03-27 15:29:19 [TestNG-test-All Tests-1] INFO  log - Starting Search With ENTER Key Test
+2026-03-27 15:29:20 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyViewBookDetails
+2026-03-27 15:29:20 [TestNG-test-All Tests-2] INFO  log - Searching for: Harry Potter
+2026-03-27 15:29:22 [TestNG-test-All Tests-1] INFO  log - Search With ENTER Test Passed
+2026-03-27 15:29:30 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyViewBookDetails
+2026-03-27 15:29:30 [TestNG-test-All Tests-2] INFO  log - Searching for: Harry Potter
+2026-03-27 15:29:31 [TestNG-test-All Tests-1] INFO  log - Starting Valid Search Test
+2026-03-27 15:29:35 [TestNG-test-All Tests-1] INFO  log - Valid Search Test Passed
+2026-03-27 15:44:09 [main] INFO  log - Starting Case Insensitive Search Test
+2026-03-27 15:44:13 [main] INFO  log - Result count for 'Harry Potter': 0
+2026-03-27 15:44:21 [main] INFO  log - Starting Product Click Navigation Test
+2026-03-27 15:44:38 [main] INFO  log - Starting Empty Search Test
+2026-03-27 15:44:39 [main] INFO  log - Empty Search Test Passed
+2026-03-27 15:44:52 [main] INFO  log - Verifying Home Page Title
+2026-03-27 15:44:52 [main] INFO  log - Home Page Title verified successfully
+2026-03-27 15:44:54 [main] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-27 15:45:05 [main] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-27 15:45:11 [main] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-27 15:45:15 [main] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-27 15:45:23 [main] INFO  log - Starting Search Relevance Test
+2026-03-27 15:45:25 [main] INFO  log - Search Relevance Test Passed
+2026-03-27 15:45:33 [main] INFO  log - Starting Search With ENTER Key Test
+2026-03-27 15:45:35 [main] INFO  log - Search With ENTER Test Passed
+2026-03-27 15:45:37 [main] INFO  log - Starting Valid Search Test
+2026-03-27 15:46:03 [main] INFO  log - Valid Search Test Passed
+2026-03-27 16:04:07 [main] INFO  log - Starting Product Click Navigation Test
+2026-03-27 16:16:04 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyClickLastProduct
+2026-03-27 16:16:04 [TestNG-test-All Tests-1] INFO  log - Starting Case Insensitive Search Test
+2026-03-27 16:16:15 [TestNG-test-All Tests-3] INFO  log - Starting test: verifyAddToCartSingleProduct
+2026-03-27 16:16:15 [TestNG-test-All Tests-3] INFO  log - Searching for book: Harry Potter
+2026-03-27 16:16:22 [TestNG-test-All Tests-1] INFO  log - Result count for 'Harry Potter': 0
+2026-03-27 16:16:32 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyClickLastProduct
+2026-03-27 16:16:34 [TestNG-test-All Tests-3] INFO  log - Starting test: verifyAddToCartSingleProduct
+2026-03-27 16:16:34 [TestNG-test-All Tests-3] INFO  log - Searching for book: Harry Potter
+2026-03-27 16:16:39 [TestNG-test-All Tests-1] INFO  log - Starting Product Click Navigation Test
+2026-03-27 16:16:43 [TestNG-test-All Tests-2] INFO  log - verifyClickLastProduct completed successfully
+2026-03-27 16:17:10 [TestNG-test-All Tests-1] INFO  log - Starting Product Click Navigation Test
+2026-03-27 16:17:21 [TestNG-test-All Tests-1] INFO  log - Starting Empty Search Test
+2026-03-27 16:17:35 [TestNG-test-All Tests-1] INFO  log - Empty Search Test Passed
+2026-03-27 16:17:43 [TestNG-test-All Tests-1] INFO  log - Verifying Home Page Title
+2026-03-27 16:17:44 [TestNG-test-All Tests-1] INFO  log - Home Page Title verified successfully
+2026-03-27 16:17:53 [TestNG-test-All Tests-1] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-27 16:18:01 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyProductPageAfterRefresh
+2026-03-27 16:18:09 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyProductPageAfterRefresh
+2026-03-27 16:18:12 [TestNG-test-All Tests-1] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-27 16:18:27 [TestNG-test-All Tests-1] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-27 16:18:32 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyUrlChangesForEachProduct
+2026-03-27 16:18:33 [TestNG-test-All Tests-3] INFO  log - Starting test: verifyQuantityIncrement
+2026-03-27 16:18:34 [TestNG-test-All Tests-1] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-27 16:18:45 [TestNG-test-All Tests-1] INFO  log - Starting Search Relevance Test
+2026-03-27 16:18:50 [TestNG-test-All Tests-1] INFO  log - Search Relevance Test Passed
+2026-03-27 16:18:51 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyUrlChangesForEachProduct
+2026-03-27 16:18:55 [TestNG-test-All Tests-3] INFO  log - Starting test: verifyQuantityIncrement
+2026-03-27 16:19:01 [TestNG-test-All Tests-1] INFO  log - Starting Search With ENTER Key Test
+2026-03-27 16:19:01 [TestNG-test-All Tests-2] INFO  log - URL validation test completed
+2026-03-27 16:19:05 [TestNG-test-All Tests-1] INFO  log - Search With ENTER Test Passed
+2026-03-27 16:19:05 [TestNG-test-All Tests-3] INFO  log - Clicked + button
+2026-03-27 16:19:06 [TestNG-test-All Tests-2] INFO  log - URL validation test completed
+2026-03-27 16:19:11 [TestNG-test-All Tests-1] INFO  log - Starting Valid Search Test
+2026-03-27 16:19:11 [TestNG-test-All Tests-2] INFO  log - URL validation test completed
+2026-03-27 16:19:14 [TestNG-test-All Tests-1] INFO  log - Valid Search Test Passed
+2026-03-27 16:19:16 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyViewBookDetails
+2026-03-27 16:19:16 [TestNG-test-All Tests-2] INFO  log - Searching for: Harry Potter
+2026-03-27 16:19:34 [TestNG-test-All Tests-2] INFO  log - Starting test: verifyViewBookDetails
+2026-03-27 16:19:34 [TestNG-test-All Tests-2] INFO  log - Searching for: Harry Potter
+2026-03-27 17:32:30 [TestNG-test-All Tests-1] INFO  log - Starting Case Insensitive Search Test
+2026-03-27 17:32:35 [TestNG-test-All Tests-1] INFO  log - Result count for 'Harry Potter': 0
+2026-03-27 17:32:44 [TestNG-test-All Tests-1] INFO  log - Starting Product Click Navigation Test
+2026-03-27 17:32:55 [TestNG-test-All Tests-1] INFO  log - Starting Product Click Navigation Test
+2026-03-27 17:33:06 [TestNG-test-All Tests-1] INFO  log - Starting Empty Search Test
+2026-03-27 17:33:07 [TestNG-test-All Tests-1] INFO  log - Empty Search Test Passed
+2026-03-27 17:33:13 [TestNG-test-All Tests-1] INFO  log - Verifying Home Page Title
+2026-03-27 17:33:13 [TestNG-test-All Tests-1] INFO  log - Home Page Title verified successfully
+2026-03-27 17:33:15 [TestNG-test-All Tests-1] INFO  log - Starting Invalid Search Test with input: xyz123abc
+2026-03-27 17:33:22 [TestNG-test-All Tests-1] INFO  log - Invalid Search Test Passed for input: xyz123abc
+2026-03-27 17:33:24 [TestNG-test-All Tests-1] INFO  log - Starting Invalid Search Test with input: @#$%
+2026-03-27 17:33:33 [TestNG-test-All Tests-1] INFO  log - Invalid Search Test Passed for input: @#$%
+2026-03-27 17:33:41 [TestNG-test-All Tests-1] INFO  log - Starting Search Relevance Test
+2026-03-27 17:33:42 [TestNG-test-All Tests-1] INFO  log - Search Relevance Test Passed
+2026-03-27 17:33:49 [TestNG-test-All Tests-1] INFO  log - Starting Search With ENTER Key Test
+2026-03-27 17:33:52 [TestNG-test-All Tests-1] INFO  log - Search With ENTER Test Passed
+2026-03-27 17:33:54 [TestNG-test-All Tests-1] INFO  log - Starting Valid Search Test
+2026-03-27 17:34:02 [TestNG-test-All Tests-1] INFO  log - Valid Search Test Passed

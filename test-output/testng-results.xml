@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results retried="1" ignored="1" total="11" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-27T17:32:19 IST" name="Automation Suite" finished-at="2026-03-27T17:34:02 IST" duration-ms="102890">
+    <groups>
+    </groups>
+    <test started-at="2026-03-27T17:32:19 IST" name="All Tests" finished-at="2026-03-27T17:34:02 IST" duration-ms="102890">
+      <class name="com.automation.tests.SearchTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:32:19 IST" name="setup" finished-at="2026-03-27T17:32:28 IST" duration-ms="8902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCaseInsensitiveSearch()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:32:28 IST" name="verifyCaseInsensitiveSearch" finished-at="2026-03-27T17:32:42 IST" duration-ms="13807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCaseInsensitiveSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:32:42 IST" name="tearDown" finished-at="2026-03-27T17:32:43 IST" duration-ms="476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCaseInsensitiveSearch status=SUCCESS method=SearchTests.verifyCaseInsensitiveSearch()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:32:43 IST" name="setup" finished-at="2026-03-27T17:32:44 IST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method retried="true" signature="verifyClickProduct()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:32:44 IST" name="verifyClickProduct" finished-at="2026-03-27T17:32:53 IST" duration-ms="8284" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA['About the Book' section not found. Navigation failed. expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 'About the Book' section not found. Navigation failed. expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at com.automation.tests.SearchTests.verifyClickProduct(SearchTests.java:113)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickProduct -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:32:53 IST" name="tearDown" finished-at="2026-03-27T17:32:53 IST" duration-ms="300" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyClickProduct status=SKIP method=SearchTests.verifyClickProduct()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:32:53 IST" name="setup" finished-at="2026-03-27T17:32:55 IST" duration-ms="1748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyClickProduct()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:32:55 IST" name="verifyClickProduct" finished-at="2026-03-27T17:33:00 IST" duration-ms="5092" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA['About the Book' section not found. Navigation failed. expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 'About the Book' section not found. Navigation failed. expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at com.automation.tests.SearchTests.verifyClickProduct(SearchTests.java:113)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:249)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickProduct -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:00 IST" name="tearDown" finished-at="2026-03-27T17:33:01 IST" duration-ms="729" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyClickProduct status=FAILURE method=SearchTests.verifyClickProduct()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:01 IST" name="setup" finished-at="2026-03-27T17:33:06 IST" duration-ms="5597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEmptySearch()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:06 IST" name="verifyEmptySearch" finished-at="2026-03-27T17:33:07 IST" duration-ms="1066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptySearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:08 IST" name="tearDown" finished-at="2026-03-27T17:33:08 IST" duration-ms="360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyEmptySearch status=SUCCESS method=SearchTests.verifyEmptySearch()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:08 IST" name="setup" finished-at="2026-03-27T17:33:13 IST" duration-ms="5489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageTitle()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:13 IST" name="verifyHomePageTitle" finished-at="2026-03-27T17:33:13 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:13 IST" name="tearDown" finished-at="2026-03-27T17:33:14 IST" duration-ms="361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomePageTitle status=SUCCESS method=SearchTests.verifyHomePageTitle()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:14 IST" name="setup" finished-at="2026-03-27T17:33:15 IST" duration-ms="1570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInvalidSearch(java.lang.String)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:15 IST" name="verifyInvalidSearch" data-provider="invalidSearchData" finished-at="2026-03-27T17:33:22 IST" duration-ms="6188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz123abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:22 IST" name="tearDown" finished-at="2026-03-27T17:33:22 IST" duration-ms="402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyInvalidSearch status=SUCCESS method=SearchTests.verifyInvalidSearch(java.lang.String)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:22 IST" name="setup" finished-at="2026-03-27T17:33:24 IST" duration-ms="1861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInvalidSearch(java.lang.String)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:24 IST" name="verifyInvalidSearch" data-provider="invalidSearchData" finished-at="2026-03-27T17:33:33 IST" duration-ms="9565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@#$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:33 IST" name="tearDown" finished-at="2026-03-27T17:33:34 IST" duration-ms="519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyInvalidSearch status=SUCCESS method=SearchTests.verifyInvalidSearch(java.lang.String)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:34 IST" name="setup" finished-at="2026-03-27T17:33:41 IST" duration-ms="6636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchRelevance()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:41 IST" name="verifySearchRelevance" finished-at="2026-03-27T17:33:42 IST" duration-ms="1753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchRelevance -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:42 IST" name="tearDown" finished-at="2026-03-27T17:33:43 IST" duration-ms="448" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySearchRelevance status=SUCCESS method=SearchTests.verifySearchRelevance()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:43 IST" name="setup" finished-at="2026-03-27T17:33:49 IST" duration-ms="5865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithEnter()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:49 IST" name="verifySearchWithEnter" finished-at="2026-03-27T17:33:52 IST" duration-ms="3682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithEnter -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:52 IST" name="tearDown" finished-at="2026-03-27T17:33:53 IST" duration-ms="401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySearchWithEnter status=SUCCESS method=SearchTests.verifySearchWithEnter()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:53 IST" name="setup" finished-at="2026-03-27T17:33:54 IST" duration-ms="1610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyValidSearch()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:33:54 IST" name="verifyValidSearch" finished-at="2026-03-27T17:34:02 IST" duration-ms="7166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidSearch -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.automation.tests.SearchTests@5a5a729f]" started-at="2026-03-27T17:34:02 IST" name="tearDown" finished-at="2026-03-27T17:34:02 IST" duration-ms="416" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyValidSearch status=SUCCESS method=SearchTests.verifyValidSearch()[pri:0, instance:com.automation.tests.SearchTests@5a5a729f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.tests.SearchTests -->
+    </test> <!-- All Tests -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
