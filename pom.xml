@@ -55,11 +55,7 @@
     <version>2.25.0</version>
 	</dependency>
 
-	<dependency>
-		<groupId>EccentricGroup</groupId>
-		<artifactId>ExtentReport</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
+	
   </dependencies>
 
 	<build>
